@@ -2,3 +2,4 @@
 
 <p>simple item addition gui application using tkinter python </p>
 
+```pip install -r requirement.txt```
