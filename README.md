@@ -2,6 +2,7 @@
 
 ## Deskripsi
 Repo ini berisi aplikasi Python yang menggunakan Tkinter untuk antarmuka pengguna, mysql-connector-python untuk menghubungkan ke database MySQL, dan cx_Freeze untuk mengonversi aplikasi menjadi file eksekusi yang dapat dijalankan di berbagai platform.
+fungsi nya hanya menambah data barang saja dan menyimpan ke database mysql dan kalian bisa mengembangkan proyek ini bisa kalian tambahkan fitur edit dan delete dsb.
 
 ### Fungsi-fungsi Utama:
 1. **Tkinter**: Modul untuk pembuatan antarmuka grafis pengguna (GUI) pada Python.
@@ -41,12 +42,11 @@ Repo ini berisi aplikasi Python yang menggunakan Tkinter untuk antarmuka penggun
    - Buat database baru dengan nama yang diinginkan.
 
 4. **Impor Database db.sql**
-   - Pilih database yang baru dibuat.
-   - Pilih opsi "Impor" di panel atas.
+   - Pilih opsi "Impor" di phpmyadmin.
    - Pilih file db.sql dari direktori proyek Anda.
    - Klik tombol "Impor" untuk memulai proses impor database.
 
 ## Menjalankan Aplikasi
 - Setelah langkah-langkah instalasi selesai, Anda dapat menjalankan aplikasi Python yang menggunakan Tkinter, mysql-connector-python, dan cx_Freeze sesuai dengan instruksi yang disediakan dalam proyek.
 
-Selamat menggunakan!
+Selamat menggunakan 🫠🤩!
