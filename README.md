@@ -38,13 +38,10 @@ fungsi nya hanya menambah data barang saja dan menyimpan ke database mysql dan k
 2. **Login ke phpMyAdmin**
    - Masukkan kredensial login Anda untuk mengakses phpMyAdmin.
 
-3. **Buat Database Baru**
-   - Buat database baru dengan nama yang diinginkan.
-
-4. **Impor Database db.sql**
+3. **Impor Database db.sql**
    - Pilih opsi "Impor" di phpmyadmin.
    - Pilih file db.sql dari direktori proyek Anda.
-   - Klik tombol "Impor" untuk memulai proses impor database.
+   - Klik tombol "Impor" untuk memulai proses impor database setelah berhasil maka akan otomatis terbuat database beserta tabel data dan kolom tabel.
 
 ## Menjalankan Aplikasi
 - Setelah langkah-langkah instalasi selesai, Anda dapat menjalankan aplikasi Python yang menggunakan Tkinter, mysql-connector-python, dan cx_Freeze sesuai dengan instruksi yang disediakan dalam proyek.
