@@ -48,6 +48,8 @@ fungsi nya hanya menambah data barang saja dan menyimpan ke database mysql dan k
 
 ## Menjalankan Aplikasi
 - Setelah langkah-langkah instalasi selesai, Anda dapat menjalankan aplikasi Python yang menggunakan Tkinter, mysql-connector-python, dan cx_Freeze sesuai dengan instruksi yang disediakan dalam proyek.
--jalanlan perintah `python app.py` di terminal anda dan selamat tampilan GUI akan muncul.
+-jalanlan perintah `python app.py` di terminal anda dan pastikan di direktori dimana proyek berada selamat tampilan GUI akan muncul.
+## Mengkonversi aplikasi python menjadi file eksekusi 
+-Coba jalankan perintah `python setup.py build` dan pastikan di direktori dimana proyek berada setelah berhasil menjalankan hasil dari build menggunakan cx_Freeze tersimpan di direktori `/dist/` yang otomatis terbuat di direktori proyek tersebut.
 
 Selamat menggunakan 🫠🤩!
